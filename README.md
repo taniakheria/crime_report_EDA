@@ -36,7 +36,7 @@ pip install pandas matplotlib seaborn
 1. Clone the repository to your local machine:git clone https://github.com/yourusername/US-Crime-Trends-EDA.git
 
 2. Navigate to the project directory:cd US-Crime-Trends-EDA
-3. 3. Run the Jupyter Notebook `crime_EDA.ipynb`:jupyter notebook crime_EDA.ipynb
+3. Run the Jupyter Notebook `crime_EDA.ipynb`:jupyter notebook crime_EDA.ipynb
 
 4. Follow the instructions in the notebook to execute the code cells and visualize the results.
 
